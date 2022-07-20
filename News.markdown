@@ -1,18 +1,3 @@
----
-layout: post
-title:  "Natural Language Processing: Hacker News"
-cover: "/assets/media/hacker-news/hacker-news.png"
-permalink: /:categories/:year/:month/:day/Natural-Language-Processing
-excerpt_separator: <!--end-->
-categories: projects
-date: 2017-09-10
----
-
-Analyzing stories from Hacker News using Natural Language Processing (NLP).
-
-<!--end-->
-
-
 # Hacker News: Natural Language Processing
 
 **Analyzing stories from Hacker News using Natural Language Processing (NLP).**  
